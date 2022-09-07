@@ -1,0 +1,24 @@
+[
+    {
+"id":"1",
+        "title":"hoddie blanco",
+        "description":"calidad pura",
+        "price":80,
+        "pictureurl":"https://i.linio.com/p/48b4cc56d35045a0056574738507df5f-product.jpg"
+    },
+    {
+"id":"2",
+        "title":"hoddie rojo",
+        "description":"calidad pura",
+        "price":59,
+    "pictureurl":"https://http2.mlstatic.com/D_NQ_NP_967873-MPE32085994911_092019-W.jpg"
+    },
+    {
+"id":"3",
+        "title":"polo oversize",
+        "description":"calidad pura",
+        "price":59,
+    "pictureurl":"https://www.kinderwelt.pe/wp-content/uploads/2022/03/polo-plomo.png"
+    }
+
+]
